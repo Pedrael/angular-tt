@@ -1,0 +1,11 @@
+.content {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: darkcyan;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 25px;
+}
